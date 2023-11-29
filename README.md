@@ -1,4 +1,5 @@
 # Google-stock-prediction
+Part-1
 Overview:
 In these time series analysis, i have used "GOOG_data.csv" dataset to predict google stocks on basis of its close price.
 These time series analysis is done on stationary data.
